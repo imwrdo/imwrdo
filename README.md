@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imwrdo
-- 👀 I’m interested in web desighn, front-end development
-- 🌱 I’m currently learning javaScript, python, JQuery, WordPress
+- 👀 I’m interested in web design, front-end development,C++ programing,game develepment
+- 🌱 I’m currently learning python,C++,C
 - 📫 How to reach me: gmail:sheinnickolas@gmail.com; telegram:@imwrdo: instagram:@imwrdo
                        
 
