@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imwrdo
 - 👀 I’m interested in web design, front-end development,C++ programing,game develepment
-- 🌱 I’m currently learning python,C++,C
-- 📫 How to reach me: gmail:sheinnickolas@gmail.com; telegram:@imwrdo: instagram:@imwrdo
+- 🌱 I’m currently learning python,C++,C,kothlin
+- 📫 How to reach me: gmail:sheinnickolas@gmail.com; telegram:@imwrdo
                        
 
 <!---
