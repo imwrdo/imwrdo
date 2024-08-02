@@ -5,7 +5,7 @@ I'm a student at Gdansk University of Technology with a passion for coding and t
 ## About Me
 
 - 🎓 Currently pursuing my studies at Gdansk University of Technology
-- 💻 Actively learning and improving skills in Python, C++,Bash,Java,Flutter, Swift etc.
+- 💻 Actively learning and improving skills in Python, C++,Java,Golang, Swift etc.
 
 ### What Drives Me
 
